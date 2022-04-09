@@ -10,10 +10,9 @@
 
 ## Screenshot
 
-![GetUserIp(Desktop)](https://user-images.githubusercontent.com/67934444/162567253-aec430a8-df5e-4e2c-9c94-79811798b1f4.png)
-![GetUserIp(Mobile)](https://user-images.githubusercontent.com/67934444/162567267-42c3ef21-fd6f-4b5e-bb13-455e42cc619d.png)
+![Cv-1](https://user-images.githubusercontent.com/67934444/162574535-469d8a87-06e3-40e0-9948-a5610aa7bb57.png)![Cv-2](https://user-images.githubusercontent.com/67934444/162574537-093ffca1-3015-4a01-996c-aa69cf588262.png)
 
-### 🏠 [Live-Demo](https://rogar-iq.github.io/Get-User-Information/)
+### 🏠 [Live-Demo](https://rogar-iq.github.io/Responsive-CV-Site/)
 
 ## Usage
 
